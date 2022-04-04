@@ -1,0 +1,7 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pedro Melém <melem.dev@gmail.com>",
+  "license": "MIT"
+}
